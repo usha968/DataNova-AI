@@ -1,0 +1,13 @@
+Date,Product,Region,Sales,Profit,Quantity,Customer_Segment
+2025-01-15,Atlas North,North,72000,16800,420,Enterprise
+2025-02-15,Atlas North,North,84000,19800,480,Enterprise
+2025-03-15,Orbit Pack,South,79000,14200,510,Retail
+2025-04-15,Atlas North,North,96000,22100,560,Enterprise
+2025-05-15,Orbit Pack,West,110000,27500,640,SMB
+2025-06-15,Terra Kit,East,104000,23800,590,Retail
+2025-07-15,Atlas North,North,118000,30400,690,Enterprise
+2025-08-15,Terra Kit,West,125000,31100,710,SMB
+2025-09-15,Orbit Pack,East,121000,26800,680,Retail
+2025-10-15,Atlas North,North,139000,36700,800,Enterprise
+2025-11-15,Terra Kit,West,148000,39200,830,SMB
+2025-12-15,Atlas North,North,162000,44100,900,Enterprise

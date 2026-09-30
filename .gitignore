@@ -1,0 +1,26 @@
+# Dependencies and build output
+node_modules/
+frontend/dist/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime data: user accounts, sessions and uploaded datasets must never be committed
+backend/datanova.db
+backend/*.db
+backend/data/
+reports/*
+!reports/.gitkeep
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Logs and editor files
+*.log
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store

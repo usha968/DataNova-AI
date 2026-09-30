@@ -1,0 +1,7 @@
+Employee_ID,Department,Salary,Experience,Performance_Score,Join_Date
+E001,Engineering,92000,6,4.6,2021-02-10
+E002,Engineering,105000,9,4.8,2018-07-14
+E003,People,68000,4,4.1,2022-01-08
+E004,Sales,74000,5,4.0,2020-11-20
+E005,Sales,81000,7,4.3,2019-03-18
+E006,Finance,99000,8,4.7,2019-06-01

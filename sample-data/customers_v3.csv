@@ -1,0 +1,6 @@
+Customer_ID,Age,Gender,Purchase_Amount,Product_Category,Purchase_Date
+C001,27,F,120,Books,2025-01-04
+C002,41,M,540,Electronics,2025-02-19
+C003,33,F,230,Home,2025-03-11
+C004,52,M,860,Electronics,2025-04-22
+C005,29,F,95,Books,2025-05-15
